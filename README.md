@@ -1,3 +1,3 @@
 # Dice Roller Flutter Dart App
 
-A new Flutter & Dart project.
+A new Flutter project.
